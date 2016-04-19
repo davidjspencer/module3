@@ -1,3 +1,31 @@
-* {
-	background-color: red;
+body {
+	background-color: #f5f6d4;
+	color: #493f0b;
+}
+.navbar-default .navbar-brand {
+	color: #493f0b;
+}
+button.navbar-toggle.collapsed {
+	color: #493f0b;
+	border-color: #493f0b;
+	background-color: #A7C520;
+}
+button.navbar-toggle.collapsed:hover {
+	background-color: #A7C520;
+}
+
+#header-nav {
+	background-color: #85DB18;
+	text-align: center;
+	border-radius: 0;
+}
+li.visible-xs:hover {
+	background-color: #A7C520;
+}
+.food-title {
+	font-size: 1.5em;
+	text-align: center;
+}
+.food-text {
+	font-size: 1.2em;
 }
